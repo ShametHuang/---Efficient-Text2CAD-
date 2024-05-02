@@ -1,0 +1,2 @@
+point2cad：为从点云文件生成CAD模型的重构过程
+text2pointcloud：为从文本到点云的生成过程
